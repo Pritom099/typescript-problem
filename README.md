@@ -6,7 +6,7 @@ blog-1.md — Blog post on any, unknown, and type narrowing
 blog-2.md — Blog post on TypeScript Generics
 README.md — Project documentation
 
-🛠️ Technologies:
+🛠️ Technologies
 TypeScript
 Object-Oriented Programming (OOP)
 Generics
@@ -15,7 +15,7 @@ Union Types
 Type Guards
 Array Methods
 
-📝 Problems Covered:
+📝 Problems Covered
 Filter Even Numbers
 Reverse String
 Check String or Number
@@ -24,14 +24,16 @@ Book Read Status
 Person and Student Classes
 Array Intersection
 
-📖 Blog Topics:
+📖 Blog Topics
 any vs unknown and Type Narrowing
 Generics in TypeScript
 
+🚀 How to Run
 
-🚀 How to Run"
+Install TypeScript if needed:
+npm install -g typescript
 
-Install TypeScript if needed, then compile the file:
+Compile the TypeScript file:
 tsc/node solutions.ts
 
 Run the generated JavaScript file:
